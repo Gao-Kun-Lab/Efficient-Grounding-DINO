@@ -1,0 +1,16 @@
+bert-base-uncased/
+├── config.json
+├── flax_model.msgpack
+├── gitattributes.txt
+├── LICENSE.txt
+├── model.onnx
+├── model.safetensors
+├── pytorch_model.bin
+├── README.md
+├── rust_model.ot
+├── tf_model.h5
+├── tokenizer_config.json
+├── tokenizer.json
+└── vocab.txt
+
+0 directories, 13 files

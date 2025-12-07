@@ -1,0 +1,864 @@
+.
+DIOR
+DIOR/Annotations
+     00001.xml
+     00002.xml
+     00003.xml
+DIOR/ImageSets
+DIOR/ImageSets/Main
+DIOR/JPEGImages
+     00001.jpg
+     00002.jpg
+     00003.jpg
+DIOR-RSVG
+DIOR-RSVG/Annotations
+     00001.xml
+     00003.xml
+     00004.xml
+DIOR-RSVG/JPEGImages
+     00001.jpg
+     00003.jpg
+     00004.jpg
+DIOR-RSVG/test
+     test.txt
+DIOR-RSVG/test/Annotations
+     10633.xml
+     13531.xml
+     13635.xml
+DIOR-RSVG/test/JPEGImages
+     10633.jpg
+     13531.jpg
+     13635.jpg
+DOTA_v1
+DOTA_v1/DOTA1_1024_hbb
+DOTA_v1/DOTA1_1024_hbb/test
+     20231109_220113.log
+DOTA_v1/DOTA1_1024_hbb/test/annfiles
+     P0006__1024__0___0.txt
+     P0006__1024__0___505.txt
+     P0006__1024__30___0.txt
+DOTA_v1/DOTA1_1024_hbb/test/images
+     P0006__1024__0___0.png
+     P0006__1024__0___505.png
+     P0006__1024__30___0.png
+DOTA_v1/DOTA1_1024_hbb/train
+     20231109_215505.log
+DOTA_v1/DOTA1_1024_hbb/train/annfiles
+     P0000__1024__0___0.txt
+     P0000__1024__0___1648.txt
+     P0000__1024__0___2472.txt
+DOTA_v1/DOTA1_1024_hbb/train/images
+     P0000__1024__0___0.png
+     P0000__1024__0___1648.png
+     P0000__1024__0___2472.png
+DOTA_v1/DOTA1_1024_hbb/trainval
+     20231109_215301.log
+DOTA_v1/DOTA1_1024_hbb/trainval/annfiles
+     P0000__1024__0___0.txt
+     P0000__1024__0___1648.txt
+     P0000__1024__0___2472.txt
+DOTA_v1/DOTA1_1024_hbb/trainval/images
+     P0000__1024__0___0.png
+     P0000__1024__0___1648.png
+     P0000__1024__0___2472.png
+DOTA_v1/DOTA1_1024_hbb/val
+     20231109_215751.log
+DOTA_v1/DOTA1_1024_hbb/val/annfiles
+     P0003__1024__0___0.txt
+     P0003__1024__123___0.txt
+     P0004__1024__0___0.txt
+DOTA_v1/DOTA1_1024_hbb/val/images
+     P0003__1024__0___0.png
+     P0003__1024__123___0.png
+     P0004__1024__0___0.png
+DOTA_v1/DOTA1_1024_mmrotate
+DOTA_v1/DOTA1_1024_mmrotate/test
+     20230209_150704.log
+DOTA_v1/DOTA1_1024_mmrotate/test/annfiles
+     P0006__1024__0___0.txt
+     P0006__1024__0___505.txt
+     P0006__1024__30___0.txt
+DOTA_v1/DOTA1_1024_mmrotate/test/images
+     P0006__1024__0___0.png
+     P0006__1024__0___505.png
+     P0006__1024__30___0.png
+DOTA_v1/DOTA1_1024_mmrotate/test_debug
+     20230209_205110.log
+DOTA_v1/DOTA1_1024_mmrotate/test_debug/annfiles
+     P0017__1024__0___0.txt
+     P0017__1024__0___1648.txt
+     P0017__1024__0___2472.txt
+DOTA_v1/DOTA1_1024_mmrotate/test_debug/images
+     P0017__1024__0___0.png
+     P0017__1024__1397___824.png
+     P0017__1024__824___4329.png
+DOTA_v1/DOTA1_1024_mmrotate/trainval
+     20230209_150552.log
+DOTA_v1/DOTA1_1024_mmrotate/trainval/annfiles
+     P0000__1024__0___0.txt
+     P0000__1024__0___1648.txt
+     P0000__1024__0___2472.txt
+DOTA_v1/DOTA1_1024_mmrotate/trainval/images
+     P0000__1024__0___0.png
+     P0000__1024__0___1648.png
+     P0000__1024__0___2472.png
+DOTA_v1/DOTA1_1024_mmrotate/trainval_debug
+     20230209_210049.log
+DOTA_v1/DOTA1_1024_mmrotate/trainval_debug/annfiles
+     P0002__1024__0___0.txt
+     P0002__1024__0___1062.txt
+     P0002__1024__0___824.txt
+DOTA_v1/DOTA1_1024_mmrotate/trainval_debug/images
+     P0002__1024__0___0.png
+     P0002__1024__0___1062.png
+     P0002__1024__0___824.png
+DOTA_v1/DOTA1_1024_mmrotate/val
+     20230209_212124.log
+DOTA_v1/DOTA1_1024_mmrotate/val/annfiles
+     P0003__1024__0___0.txt
+     P0003__1024__123___0.txt
+     P0004__1024__0___0.txt
+DOTA_v1/DOTA1_1024_mmrotate/val/images
+     P0003__1024__0___0.png
+     P0003__1024__123___0.png
+     P0004__1024__0___0.png
+DOTA_v1/DOTA1_1024_trainval
+DOTA_v1/DOTA1_1024_trainval/train
+     20230304_153737.log
+DOTA_v1/DOTA1_1024_trainval/train/annfiles
+     P0000__1024__0___0.txt
+     P0000__1024__0___1648.txt
+     P0000__1024__0___2472.txt
+DOTA_v1/DOTA1_1024_trainval/train/images
+     P0000__1024__0___0.png
+     P0000__1024__0___1648.png
+     P0000__1024__0___2472.png
+DOTA_v1/DOTA1_1024_trainval/val
+     20230304_153805.log
+DOTA_v1/DOTA1_1024_trainval/val/annfiles
+     P0003__1024__0___0.txt
+     P0003__1024__123___0.txt
+     P0004__1024__0___0.txt
+DOTA_v1/DOTA1_1024_trainval/val/images
+     P0003__1024__0___0.png
+     P0003__1024__123___0.png
+     P0004__1024__0___0.png
+DOTA_v1/DOTA1_ms_1024
+DOTA_v1/DOTA1_ms_1024/test
+     20230217_171755.log
+DOTA_v1/DOTA1_ms_1024/test/annfiles
+     P0006__1024__0___0.txt
+     P0006__1024__0___505.txt
+     P0006__1024__30___0.txt
+DOTA_v1/DOTA1_ms_1024/test/images
+     P0006__1024__0___0.png
+     P0006__1024__0___505.png
+     P0006__1024__30___0.png
+DOTA_v1/DOTA1_ms_1024/trainval
+     20230217_171630.log
+DOTA_v1/DOTA1_ms_1024/trainval/annfiles
+     P0000__1024__0___0.txt
+     P0000__1024__0___1048.txt
+     P0000__1024__0___1572.txt
+DOTA_v1/DOTA1_ms_1024/trainval/images
+     P0000__1024__0___0.png
+     P0000__1024__0___1048.png
+     P0000__1024__0___1572.png
+DOTA_v1/data
+DOTA_v1/data/test
+DOTA_v1/data/test/images
+     P0006.png
+     P0009.png
+     P0014.png
+DOTA_v1/data/train
+DOTA_v1/data/train/images
+     P0000.png
+     P0001.png
+     P0002.png
+DOTA_v1/data/train/labelTxt
+     P0000.txt
+     P0001.txt
+     P0002.txt
+DOTA_v1/data/train/labelTxt-v1.5
+     P0000.txt
+     P0001.txt
+     P0002.txt
+DOTA_v1/data/train/trainset_reclabelTxt
+     P0000.txt
+     P0001.txt
+     P0002.txt
+DOTA_v1/data/train/trainset_reclabelTxt-v1.5
+     P0000.txt
+     P0001.txt
+     P0002.txt
+DOTA_v1/data/train/trainset_reclabelTxt_0%
+     P0000.txt
+     P0001.txt
+     P0002.txt
+DOTA_v1/data/train/trainset_reclabelTxt_20%
+     P0000.txt
+     P0001.txt
+     P0002.txt
+DOTA_v1/data/train/trainset_reclabelTxt_40%
+     P0000.txt
+     P0001.txt
+     P0002.txt
+DOTA_v1/data/val
+DOTA_v1/data/val/images
+     P0003.png
+     P0004.png
+     P0007.png
+DOTA_v1/data/val/labelTxt
+     P0003.txt
+     P0004.txt
+     P0007.txt
+DOTA_v1/data/val/labelTxt-v1.5
+     P0003.txt
+     P0004.txt
+     P0007.txt
+DOTA_v1/data/val/valset_reclabelTxt
+     P0003.txt
+DOTA_v1/data/val/valset_reclabelTxt/labelTxt
+     P0003.txt
+     P0004.txt
+     P0007.txt
+DOTA_v1/data/val/valset_reclabelTxt/valset_reclabelTxt
+     P0003.txt
+     P0004.txt
+     P0007.txt
+DOTA_v1/data/val/valset_reclabelTxt_0%
+     P0003.txt
+     P0004.txt
+     P0007.txt
+DOTA_v1/data/val/valset_reclabelTxt_20%
+     P0003.txt
+     P0004.txt
+     P0007.txt
+DOTA_v1/data/val/valset_reclabelTxt_40%
+     P0003.txt
+     P0004.txt
+     P0007.txt
+DOTA_v1/data/val/valset_reclableTxt-v1.5
+     P0003.txt
+     P0004.txt
+     P0007.txt
+DOTA_v1/split_ss_dota1_5
+DOTA_v1/split_ss_dota1_5/test
+     20230313_112215.log
+DOTA_v1/split_ss_dota1_5/test/annfiles
+     P0006__1024__0___0.txt
+     P0006__1024__0___505.txt
+     P0006__1024__30___0.txt
+DOTA_v1/split_ss_dota1_5/test/images
+     P0006__1024__0___0.png
+     P0006__1024__0___505.png
+     P0006__1024__30___0.png
+DOTA_v1/split_ss_dota1_5/trainval
+     20230313_112116.log
+DOTA_v1/split_ss_dota1_5/trainval/annfiles
+     P0000__1024__0___0.txt
+     P0000__1024__0___1648.txt
+     P0000__1024__0___2472.txt
+DOTA_v1/split_ss_dota1_5/trainval/images
+     P0000__1024__0___0.png
+     P0000__1024__0___1648.png
+     P0000__1024__0___2472.png
+HRSC2016
+HRSC2016/FullDataSet
+HRSC2016/FullDataSet/AllImages
+     100000001.bmp
+     100000002.bmp
+     100000003.bmp
+HRSC2016/FullDataSet/Annotations
+     100000001.xml
+     100000002.xml
+     100000003.xml
+HRSC2016/FullDataSet/LandMask
+     100000003.bmp
+     100000003.png
+     100000005.png
+HRSC2016/FullDataSet/Segmentations
+     100000003.png
+     100000005.png
+     100000623.png
+HRSC2016/ImageSets
+     test.txt
+     test.txt~
+     train.txt
+HRSC2016/Test
+HRSC2016/Test/AllImages
+     100000003.bmp
+     100000005.bmp
+     100000623.bmp
+HRSC2016/Test/Annotations
+     100000003.xml
+     100000005.xml
+     100000623.xml
+HRSC2016/Test/LandMask
+HRSC2016/Test/Segmentations
+     100000003.png
+     100000005.png
+     100000623.png
+HRSC2016/Train
+HRSC2016/Train/AllImages
+     100000001.bmp
+     100000002.bmp
+     100000004.bmp
+HRSC2016/Train/Annotations
+     100000001.xml
+     100000002.xml
+     100000004.xml
+HRSC2016/Train/LandMask
+HRSC2016/Train/Segmentations
+LLVIP
+LLVIP/Annotations
+     010001.xml
+     010002.xml
+     010003.xml
+LLVIP/infrared
+     test.txt
+LLVIP/infrared/test
+     190001.jpg
+     190002.jpg
+     190003.jpg
+LLVIP/infrared/train
+     010001.jpg
+     010002.jpg
+     010003.jpg
+LLVIP/visible
+     test.txt
+LLVIP/visible/test
+     190001.jpg
+     190002.jpg
+     190003.jpg
+LLVIP/visible/train
+     010001.jpg
+     010002.jpg
+     010003.jpg
+SODA-A
+SODA-A/Annotations
+SODA-A/Annotations/test
+     00002.json
+     00006.json
+     00010.json
+SODA-A/Annotations/train
+     00001.json
+     00003.json
+     00004.json
+SODA-A/Annotations/val
+     00012.json
+     00014.json
+     00021.json
+SODA-A/Images
+SODA-A/Images/test
+     00002.jpg
+     00006.jpg
+     00010.jpg
+SODA-A/Images/train
+     00001.jpg
+     00003.jpg
+     00004.jpg
+SODA-A/Images/val
+     00012.jpg
+     00014.jpg
+     00021.jpg
+SODA-A-1024
+SODA-A-1024/test
+     20231114_145159.log
+SODA-A-1024/test/Annotations
+     00002__1024__0___0.json
+     00002__1024__0___1648.json
+     00002__1024__0___1704.json
+SODA-A-1024/test/Images
+     00002__1024__0___0.jpg
+     00002__1024__0___1648.jpg
+     00002__1024__0___1704.jpg
+SODA-A-1024/train
+     20231114_145722.log
+SODA-A-1024/train/Annotations
+     00001__1024__0___0.json
+     00001__1024__0___1648.json
+     00001__1024__0___1720.json
+SODA-A-1024/train/Images
+     00001__1024__0___0.jpg
+     00001__1024__0___1648.jpg
+     00001__1024__0___1720.jpg
+SODA-A-1024/trainval
+     20231114_145418.log
+SODA-A-1024/trainval/Annotations
+     00001__1024__0___0.json
+     00001__1024__0___1648.json
+     00001__1024__0___1720.json
+SODA-A-1024/trainval/Images
+     00001__1024__0___0.jpg
+     00001__1024__0___1648.jpg
+     00001__1024__0___1720.jpg
+SODA-A-1024/val
+     20231114_145454.log
+SODA-A-1024/val/Annotations
+     00012__1024__0___0.json
+     00012__1024__0___1648.json
+     00012__1024__0___1766.json
+SODA-A-1024/val/Images
+     00012__1024__0___0.jpg
+     00012__1024__0___1648.jpg
+     00012__1024__0___1766.jpg
+SODA-A-split
+SODA-A-split/test
+     20230207_224625.log
+SODA-A-split/test/Annotations
+     00002__800__0___0.json
+     00002__800__0___1300.json
+     00002__800__0___1928.json
+SODA-A-split/test/Images
+     00002__800__0___0.jpg
+     00002__800__0___1300.jpg
+     00002__800__0___1928.jpg
+SODA-A-split/test_debug
+     20230208_151538.log
+SODA-A-split/test_debug/Annotations
+     00002__800__0___0.json
+     00002__800__0___1300.json
+     00002__800__0___1928.json
+SODA-A-split/test_debug/Images
+     00002__800__0___0.jpg
+     00002__800__0___1300.jpg
+     00002__800__0___1928.jpg
+SODA-A-split/trainval
+     20230207_224445.log
+SODA-A-split/trainval/Annotations
+     00001__800__0___0.json
+     00001__800__0___1300.json
+     00001__800__0___1944.json
+SODA-A-split/trainval/Images
+     00001__800__0___0.jpg
+     00001__800__0___1300.jpg
+     00001__800__0___1944.jpg
+VisDrone
+VisDrone/Drone_test
+     00001.png
+     00002.png
+     00003.png
+VisDrone/Train_augment
+     00001.png
+     00002.png
+     00003.png
+VisDrone/test
+VisDrone/test/show_imgr
+     00001.jpg
+     00002.jpg
+     00003.jpg
+VisDrone/test/testimg
+     00001.jpg
+     00002.jpg
+     00003.jpg
+VisDrone/test/testimgr
+     00001.jpg
+     00002.jpg
+     00003.jpg
+VisDrone/test/testlabel
+     00001.xml
+     00002.xml
+     00003.xml
+VisDrone/test/testlabelr
+     00001.xml
+     00002.xml
+     00003.xml
+VisDrone/test/testtxt
+     00001.txt
+     00002.txt
+     00003.txt
+VisDrone/test/testtxtr
+     00001.txt
+     00002.txt
+     00003.txt
+VisDrone/test/testtxtr_debug
+     00295.txt
+     00712.txt
+     00858.txt
+VisDrone/train
+VisDrone/train/trainimg
+     00001.jpg
+     00002.jpg
+     00003.jpg
+VisDrone/train/trainimgr
+     00001.jpg
+     00002.jpg
+     00003.jpg
+VisDrone/train/trainlabel
+     00001.xml
+     00002.xml
+     00003.xml
+VisDrone/train/trainlabelr
+     00001.xml
+     00002.xml
+     00003.xml
+VisDrone/train/traintxt
+     00001.txt
+     00002.txt
+     00003.txt
+VisDrone/train/traintxtr
+     00001.txt
+     00002.txt
+     00003.txt
+VisDrone/val
+VisDrone/val/valimg
+     00001.jpg
+     00002.jpg
+     00003.jpg
+VisDrone/val/valimgr
+     00001.jpg
+     00002.jpg
+     00003.jpg
+VisDrone/val/vallabel
+     00001.xml
+     00002.xml
+     00003.xml
+VisDrone/val/vallabelr
+     00001.xml
+     00002.xml
+     00003.xml
+VisDrone/val/valtxt
+     00001.txt
+     00002.txt
+     00003.txt
+VisDrone/val/valtxtr
+     00001.txt
+     00002.txt
+     00003.txt
+align
+align/AnnotatedImages
+     FLIR_00002_PreviewData.jpeg
+     FLIR_00002_RGB.jpg
+     FLIR_00003_PreviewData.jpeg
+align/Annotations
+     FLIR_00002_PreviewData.xml
+     FLIR_00002_mask.jpg
+     FLIR_00003_PreviewData.xml
+align/JPEGImages
+     FLIR_00002_PreviewData.jpeg
+     FLIR_00002_RGB.jpg
+     FLIR_00003_PreviewData.jpeg
+align/train
+align/train/1024
+align/train/1024/trainimg
+align/train/1024/trainimgr
+align/train/1024/traintxt
+align/train/1024/traintxtr
+align_yolov5
+align_yolov5/IR
+     align_train.cache
+align_yolov5/IR/images
+     FLIR_00002_PreviewData.jpeg
+     FLIR_00003_PreviewData.jpeg
+     FLIR_00004_PreviewData.jpeg
+align_yolov5/IR/labels
+     FLIR_00002_PreviewData.txt
+     FLIR_00003_PreviewData.txt
+     FLIR_00004_PreviewData.txt
+align_yolov5/RGB
+     align_train.cache
+align_yolov5/RGB/images
+     FLIR_00002_RGB.jpg
+     FLIR_00003_RGB.jpg
+     FLIR_00004_RGB.jpg
+align_yolov5/RGB/labels
+     FLIR_00002_RGB.txt
+     FLIR_00003_RGB.txt
+     FLIR_00004_RGB.txt
+coco
+coco/annotations
+     captions_train2014.json
+     captions_val2014.json
+coco/annotations/annotations
+     captions_train2014.json
+     captions_val2014.json
+     instance_trainval35k.json
+coco/cache
+     minival2014_gt_roidb.pkl
+     train2014_gt_roidb.pkl
+     val2014_gt_roidb.pkl
+coco/images
+coco/images/minival2014
+     COCO_val2014_000000000042.jpg
+     COCO_val2014_000000000073.jpg
+     COCO_val2014_000000000074.jpg
+coco/images/test2017
+     000000000001.jpg
+     000000000016.jpg
+     000000000019.jpg
+coco/images/train2014
+     COCO_train2014_000000000009.jpg
+     COCO_train2014_000000000025.jpg
+     COCO_train2014_000000000030.jpg
+coco/images/trainval35k
+     COCO_train2014_000000000009.jpg
+     COCO_train2014_000000000025.jpg
+     COCO_train2014_000000000030.jpg
+coco/images/val2014
+     COCO_val2014_000000000042.jpg
+     COCO_val2014_000000000073.jpg
+     COCO_val2014_000000000074.jpg
+coco/refcoco
+     instances.json
+     refs(google).p
+     refs(unc).p
+coco/refcoco+
+     instances.json
+     refs(unc).p
+coco/refcocog
+     instances.json
+     refs(google).p
+     refs(umd).p
+coco/test2015
+     COCO_test2015_000000000001.jpg
+     COCO_test2015_000000000014.jpg
+     COCO_test2015_000000000016.jpg
+coco/test2017
+     000000000001.jpg
+     000000000016.jpg
+     000000000019.jpg
+coco/train2017
+     000000000009.jpg
+     000000000025.jpg
+     000000000030.jpg
+coco/val2017
+     000000000139.jpg
+     000000000285.jpg
+     000000000632.jpg
+datasets_Sentinel2
+datasets_Sentinel2/myself
+datasets_Sentinel2/myself/images
+datasets_Sentinel2/myself/imshow_result
+datasets_Sentinel2/myself/imshow_result/High-speed-ship
+     1__341__0___0.png
+     1__341__0___10150.png
+     1__341__0___10325.png
+datasets_Sentinel2/myself/imshow_result/Ship-on-the-river
+     1__341__0___0.png
+     1__341__0___10150.png
+     1__341__0___10325.png
+datasets_Sentinel2/myself/imshow_result/Ship-on-the-sea
+     1__341__0___0.png
+     1__341__0___10150.png
+     1__341__0___10325.png
+datasets_Sentinel2/myself/imshow_result/Ships-moored-in-the-port
+     1__341__0___0.png
+     1__341__0___10150.png
+     1__341__0___10325.png
+datasets_Sentinel2/myself/label
+datasets_Sentinel2/myself/label/DOTA
+     0_dota.txt
+     10_dota.txt
+     11_dota.txt
+datasets_Sentinel2/myself/label/VOC
+datasets_Sentinel2/myself/label/YOLO
+datasets_Sentinel2/myself/label/glVOC
+datasets_Sentinel2/myself/label/image
+     0.aux
+     0.tif
+     1.aux
+datasets_Sentinel2/myself/label/label
+datasets_Sentinel2/myself/label/meta
+datasets_Sentinel2/myself/label/model
+datasets_Sentinel2/myself/label/point
+datasets_Sentinel2/myself/label/shp
+     0_shp.cpg
+     0_shp.dbf
+     0_shp.ok
+datasets_Sentinel2/myself/ms_split_data_1024
+datasets_Sentinel2/myself/ms_split_data_1024/test
+     20250328_095749.log
+datasets_Sentinel2/myself/ms_split_data_1024/test/annfiles
+     10__341__0___0.txt
+     10__341__0___10150.txt
+     10__341__0___10325.txt
+datasets_Sentinel2/myself/ms_split_data_1024/test/images
+     10__341__0___0.png
+     10__341__0___10150.png
+     10__341__0___10325.png
+datasets_Sentinel2/myself/ms_split_data_1024/test2
+     20250328_161947.log
+datasets_Sentinel2/myself/ms_split_data_1024/test2/annfiles
+     1__341__0___0.txt
+     1__341__0___10150.txt
+     1__341__0___10325.txt
+datasets_Sentinel2/myself/ms_split_data_1024/test2/images
+     1__341__0___0.png
+     1__341__0___10150.png
+     1__341__0___10325.png
+datasets_Sentinel2/myself/ms_split_data_1024/test4
+     20250402_150526.log
+datasets_Sentinel2/myself/ms_split_data_1024/test4/annfiles
+     1__341__0___0.txt
+     1__341__0___10150.txt
+     1__341__0___10325.txt
+datasets_Sentinel2/myself/ms_split_data_1024/test4/images
+     1__341__0___0.png
+     1__341__0___10150.png
+     1__341__0___10325.png
+datasets_Sentinel2/myself/ms_split_data_1024/test4_hbb
+     20250402_152601.log
+datasets_Sentinel2/myself/ms_split_data_1024/test4_hbb/annfiles
+     1__341__0___0.txt
+     1__341__0___10150.txt
+     1__341__0___10325.txt
+datasets_Sentinel2/myself/ms_split_data_1024/test4_hbb/images
+     1__341__0___0.png
+     1__341__0___10150.png
+     1__341__0___10325.png
+datasets_Sentinel2/myself/ms_split_data_1024/test5
+     20250329_100630.log
+datasets_Sentinel2/myself/ms_split_data_1024/test5/annfiles
+     1__512__0___0.txt
+     1__512__0___10218.txt
+     1__512__0___10468.txt
+datasets_Sentinel2/myself/ms_split_data_1024/test5/images
+     1__512__0___0.png
+     1__512__0___10218.png
+     1__512__0___10468.png
+datasets_Sentinel2/myself/ms_split_data_1024/testvg
+     20250331_202529.log
+datasets_Sentinel2/myself/ms_split_data_1024/testvg/annfiles
+     1__341__0___0.txt
+     1__341__0___10150.txt
+     1__341__0___10325.txt
+datasets_Sentinel2/myself/ms_split_data_1024/testvg/images
+     1__341__0___0.png
+     1__341__0___10150.png
+     1__341__0___10325.png
+datasets_Sentinel2/myself/ms_split_data_1024/testvg2
+     20250401_163722.log
+datasets_Sentinel2/myself/ms_split_data_1024/testvg2/annfiles
+     1__341__0___0.txt
+     1__341__0___10150.txt
+     1__341__0___10325.txt
+datasets_Sentinel2/myself/ms_split_data_1024/testvg2/images
+     1__341__0___0.png
+     1__341__0___10150.png
+     1__341__0___10325.png
+datasets_Sentinel2/myself/ms_split_data_1024/train
+     20250331_103135.log
+datasets_Sentinel2/myself/ms_split_data_1024/train/annfiles
+     0__341__0___0.txt
+     0__341__0___10150.txt
+     0__341__0___10325.txt
+datasets_Sentinel2/myself/ms_split_data_1024/train/images
+     0__341__0___0.png
+     0__341__0___10150.png
+     0__341__0___10325.png
+datasets_Sentinel2/myself/ms_split_data_1024/train2
+     20250402_150236.log
+datasets_Sentinel2/myself/ms_split_data_1024/train2/annfiles
+     0__341__0___0.txt
+     0__341__0___10150.txt
+     0__341__0___10325.txt
+datasets_Sentinel2/myself/ms_split_data_1024/train2/images
+     0__341__0___0.png
+     0__341__0___10150.png
+     0__341__0___10325.png
+datasets_Sentinel2/myself/ms_split_data_1024/train2_hbb
+     20250402_152306.log
+datasets_Sentinel2/myself/ms_split_data_1024/train2_hbb/annfiles
+     0__341__0___0.txt
+     0__341__0___10150.txt
+     0__341__0___10325.txt
+datasets_Sentinel2/myself/ms_split_data_1024/train2_hbb/images
+     0__341__0___0.png
+     0__341__0___10150.png
+     0__341__0___10325.png
+datasets_Sentinel2/myself/split_data_1024
+datasets_Sentinel2/myself/split_data_1024/test
+     20250327_210457.log
+datasets_Sentinel2/myself/split_data_1024/test/annfiles
+     10__1024__0___0.txt
+     10__1024__0___1648.txt
+     10__1024__0___2472.txt
+datasets_Sentinel2/myself/split_data_1024/test/images
+     10__1024__0___0.png
+     10__1024__0___1648.png
+     10__1024__0___2472.png
+datasets_Sentinel2/myself/split_data_1024/train
+     20250327_210258.log
+datasets_Sentinel2/myself/split_data_1024/train/annfiles
+     0__1024__0___0.txt
+     0__1024__0___1648.txt
+     0__1024__0___2472.txt
+datasets_Sentinel2/myself/split_data_1024/train/images
+     0__1024__0___0.png
+     0__1024__0___1648.png
+     0__1024__0___2472.png
+datasets_Sentinel2/myself/test
+datasets_Sentinel2/myself/test/anns
+     1.txt
+     10.txt
+datasets_Sentinel2/myself/test/anns_hbb
+datasets_Sentinel2/myself/test/images
+     1.tif
+     10.tif
+datasets_Sentinel2/myself/test2
+datasets_Sentinel2/myself/test2/anns
+     1.txt
+datasets_Sentinel2/myself/test2/anns_hbb
+     1.txt
+datasets_Sentinel2/myself/test2/images
+     1.tif
+datasets_Sentinel2/myself/test3
+datasets_Sentinel2/myself/test3/anns
+     10.txt
+datasets_Sentinel2/myself/test3/images
+     10.tif
+datasets_Sentinel2/myself/test_vg
+datasets_Sentinel2/myself/test_vg/anns
+     1.txt
+     1_c10.txt
+datasets_Sentinel2/myself/test_vg/images
+     1.tif
+datasets_Sentinel2/myself/train
+datasets_Sentinel2/myself/train/anns
+     0.txt
+     11.txt
+     12.txt
+datasets_Sentinel2/myself/train/anns_hbb
+     0.txt
+     1.txt
+     10.txt
+datasets_Sentinel2/myself/train/images
+     0.tif
+     11.tif
+     12.tif
+rrsisd
+rrsisd/images
+rrsisd/images/rrsisd
+     ann_split.zip
+rrsisd/images/rrsisd/JPEGImages
+     00001.jpg
+     00003.jpg
+     00004.jpg
+rrsisd/images/rrsisd/ann_split
+     00001.xml
+     00003.xml
+     00004.xml
+rrsisd/rrsisd
+     instances.json
+     refs(unc).p
+rsvg
+     readme.txt
+     rsvg_test.pth
+rsvg/RSVG-HR
+     .DS_Store
+rsvg/RSVG-HR/Annotations
+rsvg/RSVG-HR/images
+     179844_3843003_1024_32617_sport_tennis.jpg
+     180835_3799193_1024_32617_junction_roundabout.jpg
+     187650_4287362_512_32617_sport_basketball.jpg
+thesis_visual
+     scatter_plot.pdf
+thesis_visual/DOTA
+     P0019__1024__1648___2472.png
+     P0019__1024__5549___1648.png
+     P0019__1024__5549___2703.png
+thesis_visual/DOTA_label
+     P0019__1024__1648___2472.png
+     P0019__1024__5549___1648.png
+     P0019__1024__5549___2703.png

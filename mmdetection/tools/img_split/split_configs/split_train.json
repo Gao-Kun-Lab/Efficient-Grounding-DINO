@@ -1,0 +1,18 @@
+{
+  "nproc": 10,
+  "mode": "train",
+  "oriImgDir": "/data1/detection_data/SODA-D/Images/Images",
+  "oriAnnDir": "/data1/detection_data/SODA-D/Annotations/",
+  "patchH": 1024,
+  "patchW": 1024,
+  "stepSzH": 200,
+  "stepSzW": 200,
+  "padVal": [
+    0, 0, 0
+  ],
+  "ignFillVal": [
+    0, 0, 0
+  ],
+  "interAreaIgnThr": 0.40,
+  "splDir": "/data1/detection_data/SODA-D-split/train/"
+}

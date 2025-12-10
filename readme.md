@@ -17,6 +17,8 @@ You should download bert-base-uncased to `./language_models`, structure like `be
 ## 2. Datasets
 You can put the individual data sets in `./detection_data` and the data organization directory tree reference file './detection_data/datasets.txt'
 
+Code used `sort` in `WORKDIR/mmdetection/mmdet/datasets/RSVG.py` to keep the same order of the data set.
+
 ## 3. Environments
 Thanks to the work of mmdetection, the code is developed based on mmdetection.
 
@@ -70,6 +72,10 @@ CUDA_VISIBLE_DEVICES={GPU_ID_list}  ./tools/dist_train.sh ./configs/grounding_di
 
 ## 5. Finally
 We have arranged a rough version for your reference. We will reschedule when we finish the study of mmdetection.
+
+# Update Log
+1. 2025/12/08: Made up for the files that had been deleted by mistake `Efficient-Grounding-DINO/mmdetection/mmdet/models/detectors/__init__.py`
+2. 2025/12/09: Updated `readme.md`, adding ordering explanation of DIOR-RSVG.
 
 # Citing
 If you find our work useful in your research, please consider citing:

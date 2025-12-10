@@ -64,7 +64,6 @@ from .grounding_dino_Lsparse import GroundingDINO_L_sparse
 from .grounding_dino_Lmatch import GroundingDINO_Lmatch
 from .grounding_dino_Lscore import GroundingDINO_Lscore
 from .grounding_dino_Lquery import GroundingDINO_Lquery
-from .grounding_dino_enc_aux import GroundingDINO_enc_aux
 from .grounding_dino_no_fusion import GroundingDINO_no_fusion
 from .grounding_dino_fusion_loss import GroundingDINO_fusion_loss
 from .grounding_dino_ref import GroundingDINO_ref
@@ -83,7 +82,6 @@ from .grounding_dino_fusion_decouple import GroundingDINO_fusion_decouple
 from .grounding_dino_ref_vis_fusion import GroundingDINO_ref_vis_fusion
 from .grounding_dino_decouple_fpn import GroundingDINO_decouple_fpn
 from .grounding_dino_ref_decouple_fpn import GroundingDINO_ref_decouple_fpn
-from .grounding_dino_ref_decouple_enc import GroundingDINO_ref_decouple_enc
 from .grounding_dino_decouple_enc import GroundingDINO_decouple_enc
 from .grounding_dino_ref_fusion_linear import GroundingDINO_ref_fusion_linear
 from .grounding_dino_fusion_linear import GroundingDINO_fusion_linear
@@ -141,13 +139,14 @@ __all__ = [
     'DetectionTransformer', 'ConditionalDETR', 'DINO', 'DABDETR', 'GLIP',
     'DDQDETR', 'GroundingDINO', 'GroundingDINO_small_object', 'grounding_dino_sparse',
     'GroundingDINO_L_sparse', 'GroundingDINO_Lmatch', 'GroundingDINO_Lscore',
-    'GroundingDINO_Lquery', 'GroundingDINO_enc_aux', 'GroundingDINO_no_fusion',
+    'GroundingDINO_Lquery', 
+    'GroundingDINO_no_fusion',
     'GroundingDINO_fusion_loss', 'GroundingDINO_ref', 'GroundingDINO_ref_Lmatch',
     'GroundingDINO_ref_Ladapt', 'GroundingDINO_ref_Laugment', 'GroundingDINO_ref_decouple',
     'GroundingDINO_decouple', 'GroundingDINO_GradCAM_ref', 'GroundingDINO_ref_text',
     'GroundingDINO_ref_sparse', 'GroundingDINO_ref_attribute', 'GroundingDINO_ref_similar',
     'GroundingDINO_ref_fusion_decouple', 'GroundingDINO_fusion_decouple', 'GroundingDINO_ref_vis_fusion',
-    'GroundingDINO_ref_decouple_fpn', 'grounding_dino_ref_decouple_fpn', 'GroundingDINO_ref_decouple_enc',
+    'GroundingDINO_ref_decouple_fpn', 'grounding_dino_ref_decouple_fpn', 
     'GroundingDINO_decouple_enc', 'GroundingDINO_ref_fusion_linear', 'GroundingDINO_fusion_linear',
     'GroundingDINO_ref_decouple_ms', 'GroundingDINO_ref_LQVG', 'GroundingDINO_ref_decouple_text_single',
     'GroundingDINO_ref_lite', 'GroundingDINO_lite', 'GroundingDINO_ref_lite_decouple', 'GroundingDINO_lite_decouple',
